@@ -1,3 +1,4 @@
 *.DS_Store*
 *__pycache__*
 EMNIST_data
+flower_data
